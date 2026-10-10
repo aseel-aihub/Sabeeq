@@ -1,4 +1,4 @@
-# Sabeeq
+# Sabeeq | سَبيق
 
 **An AI system that predicts where a threat will land, recommends protective actions, and lets the power network heal itself — built as a simulation on synthetic data.**
 
