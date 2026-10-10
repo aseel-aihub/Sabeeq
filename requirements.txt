@@ -1,0 +1,13 @@
+# Sabeeq — by Aseel
+# Install:  pip install -r requirements.txt
+
+streamlit>=1.50,<2.0
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+networkx>=3.2
+plotly>=5.24
+joblib>=1.4
+
+# Testing
+pytest>=8.0

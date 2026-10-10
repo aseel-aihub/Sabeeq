@@ -1,0 +1,16 @@
+# Sabeeq — by Aseel
+# Safer Streamlit settings.
+
+[client]
+# Hide technical error details from users (they can leak file paths).
+showErrorDetails = false
+
+[server]
+# Protection against cross-site request forgery (keep it on).
+enableXsrfProtection = true
+enableCORS = true
+maxUploadSize = 1
+
+[browser]
+# Don't send usage statistics.
+gatherUsageStats = false
