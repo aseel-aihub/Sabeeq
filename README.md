@@ -5,7 +5,7 @@
 > **Designed and developed by Aseel** ([@aseel-aihub](https://github.com/aseel-aihub))
 > © 2026 Aseel. All rights reserved — see [LICENSE](LICENSE).
 >
-> Entered in the **SAIF** competition (Global Security & Technology Summit / Black Hat MEA). Originally proposed as a PSDSARC graduation project.
+
 
 ---
 
