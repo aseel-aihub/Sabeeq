@@ -6,7 +6,7 @@
 > © 2026 Aseel. All rights reserved — see [LICENSE](LICENSE).
 >
 > 
-Live site: https://sabeeq-2usvem9og5ny7dd4awygnz.streamlit.app/
+**Live site:** https://sabeeq-2usvem9og5ny7dd4awygnz.streamlit.app/
 
 ---
 
